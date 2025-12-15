@@ -7,8 +7,9 @@
 
 SETUP : Download Python, And the pywin32 Library
 
-OPEN : Double click on the Desktop Mario Shortcut
+OPEN : Go into the + Stuff Folder, And open main.pyw
 
 CLOSE : Click the Mario you want to close and press Alt + F4
+
 
 I DO NOT OWN THE RIGHTS TO MARIO.
